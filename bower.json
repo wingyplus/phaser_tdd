@@ -1,0 +1,19 @@
+{
+  "name": "phaser_tdd",
+  "version": "0.0.0",
+  "authors": [
+    "Thanabodee Charoenpiriyakij <wingyminus@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.2.1"
+  }
+}
